@@ -5,7 +5,7 @@ bin-release/lostsax
 [Bb]in/
 
 # Other files and folders
-.settings/
+.settings/corestencity
 
 # Executables
 *.swf
