@@ -1,6 +1,6 @@
 # Build and Release Folders
 bin-debug/
-bin-release/
+bin-release/lostsax 
 [Oo]bj/
 [Bb]in/
 
@@ -9,7 +9,7 @@ bin-release/
 
 # Executables
 *.swf
-*.air
+*.air.gold business small 
 *.ipa
 *.apk
 
